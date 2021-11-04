@@ -3,7 +3,7 @@
 
 ### Hi there 👋
 
-[![image](https://i.imgur.com/xVVzoYk.jpg)](https://github.com/phucuongit?tab=repositories)
+[![image](https://i.imgur.com/xVVzoYk.jpg)](https://github.com/buiyenlinh?tab=repositories)
 
 <p align="center">
   <img src="https://gpvc.arturio.dev/phucuongit" alt="profile views"> •   
